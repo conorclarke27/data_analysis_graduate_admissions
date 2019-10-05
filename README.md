@@ -18,7 +18,8 @@ There are two elements to this project:
 
 ### Description of Data Set 
 
-####Data Set: The dataset contains several parameters which are considered important during the application for Masters Programs from Indian students. The variables included are : 
+#### Data Set: 
+The dataset contains several parameters which are considered important during the application for Masters Programs from Indian students. The variables included are : 
 
 1. GRE Scores: General Test  Score (out of 340) 
 
